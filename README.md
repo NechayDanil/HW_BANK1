@@ -1,1 +1,1 @@
-[![Java CI with Gradle](https://github.com/NechayDanil/HW_BANK1/actions/workflows/gradle.yml/badge.svg)](https://github.com/NechayDanil/HW_BANK1/actions/workflows/gradle.yml)
+[![Build status](https://ci.appveyor.com/api/projects/status/9m1mxgpbvr2rr8e0?svg=true)](https://ci.appveyor.com/project/NechayDanil/hw-bank1)
